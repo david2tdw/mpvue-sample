@@ -1,4 +1,4 @@
-# mpvue-trend
+# mpvue-sample
 
 > A Mpvue project
 
